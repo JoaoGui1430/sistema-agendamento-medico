@@ -1,13 +1,13 @@
 # 🩺 Sistema de Agendamento de Consultas Médicas
 
-Este é um projeto completo de um sistema de agendamento de consultas médicas, com **backend em Node.js + Express** e **frontend em React com Tailwind CSS**, idealizado para fins de estudo e portfólio. O sistema permite que usuários se cadastrem, façam login, e agendem ou gerenciem suas consultas médicas de forma simples e intuitiva.
+Este é um projeto completo de um sistema de agendamento de consultas médicas, com **backend em Node.js + Express** e **frontend em React com Tailwind CSS**. O sistema permite que usuários se cadastrem, façam login, e agendem ou gerenciem suas consultas médicas de forma simples e intuitiva.
 
 ## 🚀 Funcionalidades
 
 - ✅ Cadastro e login de usuários com autenticação via JWT
 - ✅ Dashboard de agendamentos
 - ✅ Criação e exclusão de consultas médicas
-- ✅ Armazenamento de dados em **banco de dados em memória** (sem persistência)
+- ✅ Armazenamento de dados em **banco de dados em memória**
 - ✅ Interface moderna e responsiva com React + Tailwind CSS
 - ✅ Backend e frontend integrados no mesmo projeto
 
@@ -27,8 +27,6 @@ Este é um projeto completo de um sistema de agendamento de consultas médicas, 
 - Tailwind CSS
 - React Router DOM
 - Fetch API para comunicação com o backend
-
----
 
 ## 📁 Estrutura de Pastas
 
@@ -92,17 +90,10 @@ Acesse no navegador: [http://localhost:3000](http://localhost:3000)
 
 ## 👤 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de estudos em **Node.js, React e Tailwind CSS**, com o objetivo de criar uma aplicação full-stack simples, funcional e esteticamente agradável, servindo também como **prova de conhecimento para portfólio**.
+Este projeto foi desenvolvido como parte de estudos em **Node.js, React e Tailwind CSS**, com o objetivo de criar uma aplicação full-stack, funcional e esteticamente agradável.
 
 ---
 
-## 📸 Preview
-
-### 🖥️ Dashboard
-
-![Dashboard Screenshot](./screenshot-dashboard.png)
-
----
 
 ## 📄 Licença
 
