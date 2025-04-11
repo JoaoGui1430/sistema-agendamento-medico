@@ -81,7 +81,7 @@ npm run build
 
 ```bash
 cd ..
-node index.js
+node app.js
 ```
 
 Acesse no navegador: [http://localhost:3000](http://localhost:3000)
